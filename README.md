@@ -14,7 +14,7 @@ MENJALAN KAN SCRIPT
 
 $cd JuzAmma
 
-$bash JuzAmma.sh
+$sh JuzAmma.sh
 
 
 Pesan:Jika Script Error Atau Bermasalah Chat Admin
